@@ -1,0 +1,8 @@
+.pacientes {
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgb(255, 255, 255);
+    padding: .5rem 1rem 1rem 1rem;
+    width: 400px;
+}
